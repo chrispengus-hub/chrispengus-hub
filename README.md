@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Chris Peng
 
-<!--
-**chrispengus-hub/chrispengus-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M&A Director transitioning into enterprise AI, agentic workflows, and applied AI consulting**
 
-Here are some ideas to get you started:
+I’m building practical AI systems for high-value corporate workflows, especially across **finance, corporate development, diligence, PMI, and executive reporting**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to combine:
+- strong business judgment
+- enterprise workflow understanding
+- hands-on technical capability
+
+to design and implement AI solutions that create measurable value inside large organizations.
+
+## What I'm building
+- Diligence Copilot
+- M&A Market Mapping Agent
+- PMI / Executive Update Agent
+- Enterprise RAG and agent workflow experiments
+
+## Current focus
+- Python
+- APIs
+- SQL
+- RAG
+- agent systems
+- evaluation
+- workflow automation
+- enterprise AI implementation
+
+## Background
+Before shifting into applied AI, I spent 6+ years in:
+- M&A
+- diligence
+- strategic analysis
+- executive communication
+- cross-functional corporate transformation
+
+That background shapes how I build: I care about **real workflows, decision quality, governance, and adoption**, not just demos.
+
+## Connect
+- LinkedIn: [www.linkedin.com/in/zian-peng]
+- Email: [chris.peng.us@gmail.com]
